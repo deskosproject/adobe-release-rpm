@@ -1,0 +1,3 @@
+= DeskOS: adobe-release RPM
+
+This is the _adobe-release_ RPM package for the *DeskOS* operating system.
